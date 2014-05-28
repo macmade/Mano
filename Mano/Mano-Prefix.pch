@@ -1,0 +1,27 @@
+/*******************************************************************************
+ * Copyright (c) 2014, XS-Labs
+ * All rights reserved
+ ******************************************************************************/
+
+/* $Id$ */
+
+/*!
+ * @header          ...
+ * @author          Jean-David Gadina <macmade@xs-labs.com>
+ * @copyright       (c) 2014, XS-Labs
+ */
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    
+    #import "MCMacros.h"
+    
+#endif

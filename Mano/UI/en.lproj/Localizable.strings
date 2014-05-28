@@ -1,0 +1,24 @@
+/*******************************************************************************
+ * Copyright (c) 2014, XS-Labs
+ * All rights reserved
+ ******************************************************************************/
+
+/* $Id$ */
+
+/*!
+ * @file            ...
+ * @author          Jean-David Gadina <macmade@xs-labs.com>
+ * @copyright       (c) 2014, XS-Labs
+ */
+
+"Add-Ons"                       = "Add-Ons";
+"ChooseStrings"                 = "Choose Strings";
+"FirstString"                   = "First string";
+"SecondString"                  = "Second string";
+"StringE1"                      = "E (high)";
+"StringB"                       = "B";
+"StringG"                       = "G";
+"StringD"                       = "D";
+"StringA"                       = "A";
+"StringE2"                      = "E (low)";
+"SecondStringNotAvailable"      = "Second string requires pro version.\nPlease visit the purchase center to learn more...";
