@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: Mano.xcodeproj
+xcode_scheme: Mano
+xcode_sdk: iphonesimulator
