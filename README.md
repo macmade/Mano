@@ -1,7 +1,7 @@
 Mano
 ====
 
-[![Build Status](https://travis-ci.org/macmade/Mano.svg?branch=master)](https://travis-ci.org/macmade/Mano)
+[![Build Status](https://img.shields.io/travis/macmade/Mano.svg?branch=master&style=flat)](https://travis-ci.org/macmade/Mano)
 
 About
 -----
